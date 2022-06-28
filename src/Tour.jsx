@@ -37,7 +37,7 @@ const Button = styled.button`
    px-2
    lg:px-8
    xl:px-10
-   w-48
+   w-52
    inline-flex
    items-center
    justify-center
